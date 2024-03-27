@@ -1,0 +1,119 @@
+.card1{
+    background-image: url("https://st3.depositphotos.com/1624647/14109/i/450/depositphotos_141096668-stock-photo-texture-background-pottery-pots-dishes.jpg");
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+}
+#nav-head{
+    font-family: "Great Vibes";
+    color: #b51d4b;
+}
+.nav-card{
+    text-align: right;
+    color: #ffffff;
+}
+.nav-style{
+    color: #b51d4b;
+    margin-top: 10px;
+}
+.head1{
+    color: #000000;
+    font-family: sans-serif;
+    font-size: 60px;
+    font-weight: bold;
+}
+.para1{
+    color: #000000;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.button1{
+    background-color: #b51d4b;
+    color: #ffffff;
+    width: 200px;
+    height: 50px;
+    font-family: sans-serif;
+    border-radius: 0px;
+}
+.img1{
+    width: 100%;
+}
+.card2{
+    background-color: #ffffff;
+    text-align: center;
+    padding-top: 5%;
+}
+
+.title-head{
+    font-size: 20px; 
+}
+.price{
+    font-size: 30px;
+}
+.card3{
+    padding-bottom: 20px;
+    background-color: #e6e6e6;
+    margin-top: 10px;
+}
+.img2{
+    height: 200px;
+    width: 200px;
+}
+.img3{
+    height: 460px;
+}
+.card4{
+    background-color: #ffffff;
+    width: 100%;
+    padding: 5%;
+
+}
+.img4{
+    height: 400px;
+    width: 300px;
+}
+.card5{
+    background-color: #e6e6e6;
+    text-align: centers;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.img-profile{
+    height: 100px;
+    width: 100px;
+    border-radius: 115px;
+}
+.img5{
+    height: 500px;
+}
+.img6{
+    height: 250px;
+}
+.text-style{
+    color: #ffffff;
+}
+.card6{
+    background-image: url("https://img.freepik.com/premium-photo/beautiful-bonsai-plant-ceramic-pot-indoor-dark-background-room-with-some-copy-space_765331-3463.jpg");
+    height: 90vh;
+    background-size: cover;
+}
+.end-card{
+    background-color: #000000;
+    color: #ffffff;
+}
+.text-style2{
+    font-size: 16px;
+    color: #ffffff;
+}
+.icon-style{
+    font-size: 50px;
+    color: #1fab44;
+}
+.cc-card{
+    background-color: #353838;
+    color: #ffffff;
+    font-size: 30px;
+    padding: 5px;
+    font-family: Roboto;
+}
